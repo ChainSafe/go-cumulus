@@ -1,3 +1,3 @@
-module github.com/ChainSafe/go-template
+module github.com/ChainSafe/go-cumulus
 
-go 1.15
+go 1.17
